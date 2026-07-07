@@ -59,8 +59,7 @@ cloud-portfolio/
 ├── Images/
 │
 └── README.md
-
----
+```
 
 ## 🎯 Current Learning Roadmap
 
