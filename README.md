@@ -21,20 +21,32 @@ This repository documents my hands-on journey in Cloud Computing, focusing on bu
 ### Cloud Platforms
 - Amazon Web Services (AWS)
 
-### Services (Completed & Upcoming)
+### Services Learned
+
 - IAM
 - EC2
 - S3
 - VPC
+- Public & Private Subnets
+- Internet Gateway
+- Route Tables
+- NAT Gateway
+- Security Groups
+- Network ACL
+- EBS
+- EFS
+- Elastic Load Balancer
+- Auto Scaling Groups
+
+### Upcoming Services
+
 - RDS
 - Lambda
 - CloudWatch
-- Elastic Beanstalk
 - Route 53
 - CloudFront
 - ECS
 - EKS
-
 ---
 
 ## 📂 Repository Structure
@@ -42,46 +54,34 @@ This repository documents my hands-on journey in Cloud Computing, focusing on bu
 ```
 cloud-portfolio/
 │
-├── AWS/
-│   ├── IAM/
-│   ├── EC2/
-│   ├── S3/
-│   ├── VPC/
-│   └── ...
-│
 ├── Projects/
 │
+├── Images/
+│
 └── README.md
-```
-
----
-
-## 📌 Projects
-
-Projects will be added as I gain hands-on experience.
-
-Examples include:
-
-- Static Website Hosting on Amazon S3
-- Secure IAM User & Group Management
-- EC2 Web Server Deployment
-- VPC Network Configuration
-- Cloud Resume Challenge
-- Serverless Applications using AWS Lambda
 
 ---
 
 ## 🎯 Current Learning Roadmap
 
 - [x] Cloud Computing Fundamentals
-- [ ] AWS IAM
-- [ ] AWS EC2
-- [ ] AWS S3
-- [ ] AWS VPC
+- [x] AWS IAM
+- [x] AWS EC2
+- [x] AWS S3
+- [x] AWS VPC
+- [x] VPC Networking (Subnets, Route Tables, Internet Gateway)
+- [x] NAT Gateway
+- [x] Security Groups & Network ACL
+- [x] EBS & EFS
+- [x] Elastic Load Balancer (ELB)
+- [x] Auto Scaling Groups (ASG)
 - [ ] AWS RDS
 - [ ] AWS Lambda
-- [ ] Monitoring with CloudWatch
-- [ ] Cloud Security
+- [ ] CloudWatch
+- [ ] Docker
+- [ ] Kubernetes
+- [ ] Terraform
+- [ ] CI/CD
 - [ ] Final Cloud Projects
 
 ---
